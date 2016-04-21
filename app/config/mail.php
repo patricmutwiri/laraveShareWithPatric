@@ -54,7 +54,7 @@ return array(
 	|
 	*/
 
-	'from' => array('address' => 'luisamwai@gmail.com', 'name' => 'Green SportRegistration'),
+	'from' => array('address' => 'patwiri@gmail.com', 'name' => 'Green SportRegistration'),
 
 	/*
 	|--------------------------------------------------------------------------
@@ -80,7 +80,7 @@ return array(
 	|
 	*/
 
-	'username' => 'loisenjoki6@gmail.com',
+	'username' => '',
 
 	/*
 	|--------------------------------------------------------------------------
@@ -93,7 +93,7 @@ return array(
 	|
 	*/
 
-	'password' => 'loise1234njoki',
+	'password' => '',
 
 	/*
 	|--------------------------------------------------------------------------
